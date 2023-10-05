@@ -1,8 +1,10 @@
 # 2nd question
 
 
-![Screenshot (392)](https://github.com/HIMA10SHREE/Onlineassessment/assets/52618743/fbcea32e-fd7c-4dad-9fbf-c7342d9afb15)
+![Screenshot (392)](https://github.com/HIMA10SHREE/OnlineAssessment/assets/52618743/0b74c76c-a62f-43e6-945c-4c7649f3fbbe)
 
-![Screenshot (393)](https://github.com/HIMA10SHREE/Onlineassessment/assets/52618743/0b27874f-5a84-43b2-8a08-36fc2e11cc52)
 
-![Screenshot (394)](https://github.com/HIMA10SHREE/Onlineassessment/assets/52618743/7cac971a-e557-47c3-849d-b1a1b112166a)
+![Screenshot (393)](https://github.com/HIMA10SHREE/OnlineAssessment/assets/52618743/56fcf2dc-0512-441b-8cf7-da3980dcdf30)
+
+
+![Screenshot (394)](https://github.com/HIMA10SHREE/OnlineAssessment/assets/52618743/c4fbfe90-f552-4c8c-bac4-46e714da3089)
